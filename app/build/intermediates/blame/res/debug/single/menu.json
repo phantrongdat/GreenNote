@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mnu_navigation_drawer.xml",
+        "source": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\src\\main\\res\\menu\\mnu_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mnu_note_edit.xml",
+        "source": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\src\\main\\res\\menu\\mnu_note_edit.xml"
+    },
+    {
+        "merged": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mnu_note_delete.xml",
+        "source": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\src\\main\\res\\menu\\mnu_note_delete.xml"
+    },
+    {
+        "merged": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mnu_note_help.xml",
+        "source": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\src\\main\\res\\menu\\mnu_note_help.xml"
+    },
+    {
+        "merged": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actionmode_multidelete.xml",
+        "source": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\src\\main\\res\\menu\\actionmode_multidelete.xml"
+    },
+    {
+        "merged": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mnu_note_main.xml",
+        "source": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\src\\main\\res\\menu\\mnu_note_main.xml"
+    },
+    {
+        "merged": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mnu_note_create.xml",
+        "source": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\src\\main\\res\\menu\\mnu_note_create.xml"
+    },
+    {
+        "merged": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_list_action.xml",
+        "source": "D:\\DAT\\DOAN2\\GREENNOTE\\app\\src\\main\\res\\menu\\context_list_action.xml"
+    }
+]
